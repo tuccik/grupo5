@@ -1,0 +1,14 @@
+/*------------Titulo-----------/*/
+.titulodePelicula{
+    display: flex;
+    width: 100%;
+    height:fit-content;
+    justify-content: center;
+}
+
+.titulodePelicula h5{
+    color: aliceblue;
+}
+
+/*------------Imagenes-----------/*/
+
